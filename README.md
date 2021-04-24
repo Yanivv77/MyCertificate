@@ -1,29 +1,31 @@
 # MyCertificates
 
 ***
-
 ## Google
-### [Google Data Analytics Professional Certificate](https://github.com/Yanivv77/MyCertificates/tree/main/Google%20Data%20Analytics%20Certificate)
 
 
 ***
 ## Microsoft 
-###  [Certified Data Analyst Associate](https://github.com/Yanivv77/MyCertificates/tree/main/Microsoft%20Certified%20Data%20Analyst%20Associate)
+
+<a href="https://github.com/Yanivv77/MyCertificate/blob/main/Microsoft%20Certified%20Data%20Analyst%20Associate/Microsoft_Certified_Professional_Certificate_0.pdf"><img src="https://github.com/Yanivv77/MyCertificate/blob/main/Microsoft%20Certified%20Data%20Analyst%20Associate/Microsoft%20Certified%20Data%20Analyst%20Associate.PNG?" alt="Illustration" width="720px" height="480px " /> </a>
 
 
 ***
 ## University of Michigan
-###  [AApplied Data Science with Python Specialization](https://github.com/Yanivv77/MyCertificates/tree/main/University%20of%20Michigan%20Applied%20Data%20Science%20with%20Python%20Specialization)
-###  [Statistics with Python Specialization](https://github.com/Yanivv77/MyCertificates/tree/main/University%20of%20Michigan%20Statistics%20with%20Python%20Specialization)
+<a href="https://github.com/Yanivv77/MyCertificate/blob/main/University%20of%20Michigan%20Applied%20Data%20Science%20with%20Python%20Specialization/Coursera%20D9H54ZN4CDXU.pdff"><img src="https://github.com/Yanivv77/MyCertificate/blob/main/University%20of%20Michigan%20Applied%20Data%20Science%20with%20Python%20Specialization/Applied%20Data%20Science%20with%20Python%20Specialization.PNG?" alt="Illustration" width="720px" height="480px"/></a>
+
+
+
+<a href="https://github.com/Yanivv77/MyCertificate/blob/main/University%20of%20Michigan%20Statistics%20with%20Python%20Specialization/Coursera_WFK6HQ5G4WWB.pdf"><img src="https://github.com/Yanivv77/MyCertificate/blob/main/University%20of%20Michigan%20Statistics%20with%20Python%20Specialization/Statistics%20with%20Python%20Specialization.PNG?" alt="Illustration" width="720px" height="480px"/></a>
 
 
 ***
 ## IBM
-### [Data Science Professional Certificate](https://github.com/Yanivv77/MyCertificates/tree/main/IBM%20Data%20Science%20Professional%20Certificate)
+<a href="https://github.com/Yanivv77/MyCertificate/blob/main/IBM%20Data%20Science%20Professional%20Certificate/Coursera_MUHT87J9DUPZ.pdf"><img src="https://github.com/Yanivv77/MyCertificate/blob/main/IBM%20Data%20Science%20Professional%20Certificate/IBM%20Data%20Science%20Professional%20Certificate.PNG?" alt="Illustration" width="720px" height="480px"/> &nbsp; &nbsp; &nbsp;</a>
 
 
 ***
 ## Imperial College London
-### [Mathematics for Machine Learning Specialization](https://github.com/Yanivv77/MyCertificates/tree/main/Imperial%20College%20Mathematics%20for%20Machine%20Learning%20Specialization)
+<a href="https://github.com/Yanivv77/MyCertificate/blob/main/Imperial%20College%20Mathematics%20for%20Machine%20Learning%20Specialization/Coursera%202PLUDG3NKRZP.pdf"><img src="https://github.com/Yanivv77/MyCertificate/blob/main/Imperial%20College%20Mathematics%20for%20Machine%20Learning%20Specialization/Imperial%20College%20Mathematics%20for%20Machine%20Learning%20Specializatio.PNG?" alt="Illustration" width="720px" height="480px"/> </a>
 ***
 
