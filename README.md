@@ -1,5 +1,6 @@
 # MyCertificates
 
+<a href="https://github.com/Yanivv77/MyCertificate/blob/main/Google%20Data%20Analytics%20Certificate/Coursera%20AU9E6EV6Q48X.pdf"><img src="https://github.com/Yanivv77/MyCertificate/blob/main/Google%20Data%20Analytics%20Certificate/certificate.PNG?" alt="Illustration" width="720px" height="480px " /> </a>
 
 ## Google
 
